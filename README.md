@@ -23,7 +23,7 @@ This application was built to develop and practice my skills with Node.js, mySQL
 
 ## Demo
 
-![Watch the video](https://drive.google.com/file/d/1bQCUGv-xzn2tBVB0QC9dFdtlr0h5FRnH/view)
+![Link](https://drive.google.com/file/d/1bQCUGv-xzn2tBVB0QC9dFdtlr0h5FRnH/view)
 
 
 ## Badges
